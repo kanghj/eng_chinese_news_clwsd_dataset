@@ -1,0 +1,6 @@
+{
+  "name": "English-Chinese news Cross-Lingual WSD dataset",
+  "tagline": "For Cross-Lingual Word Sense Disambiguation from English to Chinese, using news articles from the real-world",
+  "body": "### WordNews English-Chinese Cross-Lingual Word Sense Disambiguation dataset\r\n\r\nThis dataset allows evaluation of WSD systems. The format is in a similar format as Senseval-2 English Lexical Sample task. \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
