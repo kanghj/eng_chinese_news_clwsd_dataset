@@ -1,6 +1,6 @@
 {
   "name": "English-Chinese news Cross-Lingual WSD dataset",
   "tagline": "For Cross-Lingual Word Sense Disambiguation from English to Chinese, using news articles from the real-world",
-  "body": "### WordNews English-Chinese Cross-Lingual Word Sense Disambiguation dataset\r\n\r\nThis dataset allows evaluation of WSD systems. The format is in a similar format as Senseval-2 English Lexical Sample task. \r\n",
+  "body": "### WordNews English-Chinese Cross-Lingual Word Sense Disambiguation dataset\r\n\r\nThis dataset allows evaluation of WSD systems on a dataset consisting of sentences from real-world news articles written recently in 2015. The format is in a similar format as Senseval-2 English Lexical Sample task. The .dtd file of Senseval-2 Lexical Sample task is provided. The dataset was originally built as an evaluation dataset for the translation component of WordNews, an education software for language learning. \r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
